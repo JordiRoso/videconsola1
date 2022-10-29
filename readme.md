@@ -1,46 +1,38 @@
-# Project Title
+# Consola Nintendo con Css y HTML
 
-## Table of Contents
+## Contenido
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Saber Más](#about)
+- [Instalación](#getting_started)
+- [Uso](#usage)
 
-## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+## Saber Más <a name = "about"></a>
 
-## Getting Started <a name = "getting_started"></a>
+Este proyecto trata de aprender a utilizar correctamente el posicionamiento de objetos utilizando la tecnologia Flex, a traves de Html y Css.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+## Instalación<a name = "getting_started"></a>
 
-### Prerequisites
+No és necesario ningún tipo de instalación previa.
 
-What things you need to install the software and how to install them.
 
-```
-Give examples
-```
 
-### Installing
+### Vista previa
 
-A step by step series of examples that tell you how to get a development env running.
 
-Say what the step will be
+Html
 
-```
-Give the example
-```
+![Screenshot](html%20consola.png)
 
-And repeat
+CSS
 
-```
-until finished
-```
+![Screenshot](css%20videoconsola.png)
 
-End with an example of getting some data out of the system or using it for a little demo.
+Resultado
 
-## Usage <a name = "usage"></a>
+![Screenshot](consola.png)
 
-Add notes about how to use the system.
+
+## Uso <a name = "usage"></a>
+
+Pasando el ratón por encima de la pantalla nos aparecerá una imagen, de esta forma, parece que la consola se ha conectado.
