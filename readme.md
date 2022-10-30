@@ -30,7 +30,7 @@ CSS
 
 Resultado
 
-![Screenshot](consola.png)
+![Screenshot](consola1.png)
 
 
 ## Uso <a name = "usage"></a>
